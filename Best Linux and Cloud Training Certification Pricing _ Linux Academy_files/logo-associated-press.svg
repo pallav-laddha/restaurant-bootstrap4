@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="86" viewBox="0 0 97 86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="associated_press_logo" data-name="associated press logo" class="cls-1" d="M1468,6620.25h97V6632h-97v-11.75Zm70.7-74.25h-16.95v49.01h11.72v-39.12h4.73c5.48,0,8.6,2.62,8.6,7.35,0,4.65-3.12,7.35-8.6,7.35h-0.76v9.89h1.26c12.65,0,20.07-6.38,20.07-17.24C1558.77,6552.17,1551.35,6546,1538.7,6546Zm-48.37,0-16.31,49.01h11.81l11.07-34.64,5.56,17.32h-7.19l-2.86,9.88h13.21l2.39,7.44h12.14l-16.3-49.01h-13.52Z" transform="translate(-1468 -6546)"/>
+</svg>
